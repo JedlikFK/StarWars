@@ -39,6 +39,8 @@ urhajo.penup()
 
 
 
+
+
 while True:
 
     if urhajo.ycor()>300:
